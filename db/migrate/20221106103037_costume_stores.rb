@@ -10,3 +10,4 @@ class CostumeStores < ActiveRecord::Migration[6.1]
       t.datetime :closing_time
   end
 end
+end
